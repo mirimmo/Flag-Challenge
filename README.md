@@ -1,2 +1,2 @@
-# Flag Challenge v2.0
-Open via GitHub Pages (HTTPS) in Chrome or Edge, allow microphone access. Internet required for flag images and browser speech recognition. Each participant gets 15 flags. Correct answers earn 3, 2 or 1 points depending on hint stage. Game over ends the match.
+Flag Challenge V4
+Upload all files to GitHub Pages root. V4 adds explicit 0–3 point announcements, varied Persian feedback, performance commentary and synthesized sound cues. Native Persian voice or bundled synthetic Persian clips; custom names may use English synthesis. Mixed recognition alternates languages, not simultaneous bilingual recognition. Test on target phone. No paid API.
