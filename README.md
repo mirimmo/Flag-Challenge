@@ -1,2 +1,2 @@
-Flag Challenge V4
-Upload all files to GitHub Pages root. V4 adds explicit 0–3 point announcements, varied Persian feedback, performance commentary and synthesized sound cues. Native Persian voice or bundled synthetic Persian clips; custom names may use English synthesis. Mixed recognition alternates languages, not simultaneous bilingual recognition. Test on target phone. No paid API.
+# Flag Challenge V6.0
+Upload all files to GitHub Pages. Test Voice before starting. Optional Gemini API key is entered each tab session and sent directly to Google, never stored in the repository or saved game. Gemini model availability, Persian quality, free quota and browser CORS are not verified; Google may charge if billing is enabled. No robotic fallback: without a key a Persian device voice is required. Browser recognition remains experimental for bilingual answers. Saved games stay on the same browser.
