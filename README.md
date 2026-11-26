@@ -1,2 +1,3 @@
-Flag Challenge V14.0
-Gemini Live only, Kore, brisk generation instructions, normal playback speed, one background clip during listening, microphone-ready countdown. Upload all eight files. Live latency and voice quality require device testing.
+Flag Challenge V15.0
+
+Based on V14. Gemini Live PCM streams at native sample rate with a short initial buffer. Existing V14 audio cache retained. Speculative generation disabled to prevent queue blocking. Voice prompts, recognition and game rules unchanged. Live browser testing required.
