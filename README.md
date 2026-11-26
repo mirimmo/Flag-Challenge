@@ -1,2 +1,3 @@
-Flag Challenge V11.0
-Normal-speed Gemini Live audio (1x), natural speech instruction and fresh audio cache. Retains V10 game logic, voice lock and player names. Upload all eight files. Live microphone and audio testing required.
+Flag Challenge V12.0
+
+Restores V7 Gemini TTS (Kore, normal speed, complete WAV playback). No Live streaming or speculative audio requests. Countdown waits for microphone audio capture and pauses during recognition restarts. Mixed recognition still uses one language per recognition session. Google TTS quota limits still apply. Greece aliases and repeated answers added.
