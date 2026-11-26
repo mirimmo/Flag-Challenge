@@ -1,3 +1,2 @@
-Flag Challenge V12.0
-
-Restores V7 Gemini TTS (Kore, normal speed, complete WAV playback). No Live streaming or speculative audio requests. Countdown waits for microphone audio capture and pauses during recognition restarts. Mixed recognition still uses one language per recognition session. Google TTS quota limits still apply. Greece aliases and repeated answers added.
+# Flag Challenge V13.0
+Based on V8.0. Gemini Live only; original buffered 24 kHz WAV playback at normal speed. Fresh audio cache, microphone-ready countdown, Greece aliases, immediate flag display, saved model first. Upload all eight files to GitHub Pages. Live testing required.
