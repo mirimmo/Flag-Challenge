@@ -1,2 +1,2 @@
-# Flag Challenge V13.0
-Based on V8.0. Gemini Live only; original buffered 24 kHz WAV playback at normal speed. Fresh audio cache, microphone-ready countdown, Greece aliases, immediate flag display, saved model first. Upload all eight files to GitHub Pages. Live testing required.
+Flag Challenge V14.0
+Gemini Live only, Kore, brisk generation instructions, normal playback speed, one background clip during listening, microphone-ready countdown. Upload all eight files. Live latency and voice quality require device testing.
