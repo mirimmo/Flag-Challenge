@@ -1,2 +1,2 @@
-Flag Challenge V9.0
-Gemini Live only; saved API key; streamed PCM audio, 1.25x playback, immediate flag and hint display, shorter announcements. No speculative audio requests. Live browser and quota testing required. Upload all eight files to GitHub Pages.
+Flag Challenge V10.0
+Upload all eight files to GitHub Pages. Gemini Live only; model locked after connection, Kore voice, fresh model-specific cache, explicit player names, next-turn audio prefetch, 1.25x playback. Live audio quality and latency require device testing.
