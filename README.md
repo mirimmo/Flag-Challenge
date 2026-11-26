@@ -1,0 +1,2 @@
+# Flag Challenge v1.0
+Reconstructed Persian flag quiz. Upload all files to the root of a GitHub Pages repository. Flags require internet (FlagCDN). Voice support depends on browser, Persian language support and microphone permission. No API key required.
