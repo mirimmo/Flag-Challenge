@@ -1,2 +1,2 @@
-# Flag Challenge V8.0
-Experimental Gemini Live transport. Select Live and test Persian voice before playing. Model discovery tries v1alpha, v1beta and v1. Audio turns are serialized and cached. Original TTS is selectable or optional fallback. No speculative requests. Live audio is buffered before playback, not streamed to speakers. Model access, exact spoken wording, latency, free quotas and browser WebSocket support require real-device testing. API key remains in browser local storage. Do not enable billing if zero cost is required.
+Flag Challenge V9.0
+Gemini Live only; saved API key; streamed PCM audio, 1.25x playback, immediate flag and hint display, shorter announcements. No speculative audio requests. Live browser and quota testing required. Upload all eight files to GitHub Pages.
